@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@100;400&display=swap");
+
+body {
+  background: linear-gradient(to left, #007991, #78ffd6);
+  font-family: "Big Shoulders Stencil Display", cursive;
+  text-align: center;
+  max-height: 100vh;
+}
+h1 {
+  font-size: 3rem;
+  padding-bottom: 40px;
+}
+div {
+  text-align: center;
+}
+div input[type="color"] {
+  margin-top: 10px;
+}
